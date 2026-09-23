@@ -7,5 +7,5 @@ c_year = int(input("Current year: "))
 # calculations
 age = c_year-b_year
 
-# outputs
+# output
 print(f"Hello {name}, you are approximately {age} years old.")
