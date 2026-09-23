@@ -8,5 +8,5 @@ time=float(input("Time (in years): "))
 si=(pa*rate*time)/100
 amount=pa+si
 
-# outputs
+# output
 print(f"\nSimple interest is ₹{si}\nTotal amount after the given time period is ₹{amount}")
