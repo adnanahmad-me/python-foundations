@@ -6,8 +6,8 @@ print("      Calculator App\n")
 
 # inputs
 # print("Please enter two numbers a and b:")
-a=int(input("Enter the first number: "))
-b=int(input("Enter the second number: "))
+a=float(input("Enter the first number: "))
+b=float(input("Enter the second number: "))
 
 # outputs
 print(f"\nResults:\n{a} + {b} = {a+b}\n{a} - {b} = {a-b}\n{a} x {b} = {a*b}")
